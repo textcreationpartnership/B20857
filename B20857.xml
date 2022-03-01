@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Protector, a proclamation giving encouragement to such as shall transplant themselves to Jamaica</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20857</idno>
+            <idno type="STC">Wing C7154</idno>
+            <idno type="EEBO-CITATION">18451768</idno>
+            <idno type="OCLC">ocm 18451768</idno>
+            <idno type="VID">206443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20857)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206443)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1631:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Protector, a proclamation giving encouragement to such as shall transplant themselves to Jamaica</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and Iohn Fields ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLV [1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside in 2 sheets.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Proclamations --  Great Britain.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Great Britain --  Colonies.</term>
+               <term>Jamaica --  History --  To 1962.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:206443:1"/>
+            <head>
+               <g ref="char:leaf">❧</g> By the Protector. A PROCLAMATION Giving Encouragement to ſuch as ſhall tranſplant themſelves to <hi>Jamaica.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Iſland of <hi>Jamaica</hi> in <hi>America,</hi> is by the Providence of God, in the hands and poſſeſsion of this State, the Enemy which was found upon it, being fled into the Mountains with an intention to eſ<g ref="char:EOLhyphen"/>cape into other places, ſave ſuch of them as do daily render themſelves to our Commander in chief there, to be diſpoſed of by him; and We being ſatisfied of the Goodneſs, Fertility, and Commodiouſneſs for Trade and Commerce of that Iſland, Have reſolved, by the bleſſing of God, to uſe Our beſt endeavours to ſecure, and plant the ſame. For which end and purpoſe, We have thought it neceſſary to publiſh, and make known unto the People of this Commonwealth, and eſpecially to thoſe of the <hi>Engliſh</hi> Iſlands, Plantations and Colonies in <hi>America,</hi> our Reſolutions and Intentions on that behalf, as alſo to declare unto them the Encouragements which We have thought fit to give unto ſuch as ſhall remove themſelves, and their habitations into the aforeſaid Iſland of <hi>Jamaica,</hi> within the time mentioned and expreſſed in theſe Preſents. And firſt, concerning the ſecuring thereof a<g ref="char:EOLhyphen"/>gainſt the Enemy, We have already upon the Iſland, which landed there in <hi>May</hi> laſt, above ſix thouſand Soul<g ref="char:EOLhyphen"/>diers, and the beginning of <hi>July</hi> after, we ſent from hence a Regiment of eight hundred more, drawn out of Our old Regiments in <hi>England,</hi> with eight Ships of War, beſides Victualers, to be added to twelve others, that were left there by General <hi>Pen,</hi> under the command of Captain <hi>Will. Goodſon,</hi> all which are appointed to remain in thoſe Seas for the Defence of the ſaid Iſland; and We ſhall from time to time take care to ſend thither other, both Land and Sea Forces, that We may have alwaies in thoſe parts, ſuch a ſtrength as may be able, through the bleſſing of God, to defend and ſecure it againſt any Attempt of the Enemy; that whereas the Planters in other Places have been at Great and vaſt expences at their firſt ſitting down, and in the very beginning of their Plantati<g ref="char:EOLhyphen"/>ons for their neceſſary defence, aſwell againſt the Natives of the Countrey as other Enemies, thoſe who ſhall re<g ref="char:EOLhyphen"/>move thither, will be under the immediate Protection of this State, and ſo eaſed both of the danger and charge which other Plantations are ſubject to, and ſhall have, for their further encouragement, the terms and conditions following.</p>
+            <p n="1">1. Thoſe who ſhall tranſport themſelves as aforeſaid ſhall have land ſet forth unto them, according to the propor<g ref="char:EOLhyphen"/>tion of twenty Acres, beſides Lakes and Rivers, for every Male of twelve years old and upwards, and ten Acres for every other Male or Female, in ſome convenient place of the ſaid Iſland; and in caſe any whole Plantation, That is to ſay, the Governours and greateſt part of the people ſhall remove themſelves, they ſhall be preferred in reſpect of the place of their ſitting down, that it may be near ſome good Harbour commodious for Commerce and Navigation.</p>
+            <p n="2">2. That the ſaid Proportion of Land ſhall be ſet forth unto them, within ſix Weeks after notice given by them under their hands, or the hands of ſome of them on the behalf of the reſt, unto his Highneſs Commander in chief, or Commiſſioners there, appointed for that purpoſe of their reſolutions to remove, and of the time they in<g ref="char:EOLhyphen"/>tend to be upon the place.</p>
+            <p n="3">
+               <pb facs="tcp:206443:2" rendition="simple:additions"/>3. That they ſhall have Liberty for the ſpace of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ven years to hunt, take and diſpoſe of to their own uſe ſuch Horſes, and other cattle as are, or ſhall be upon the ſaid Iſland, the ſame not being marked by, or belonging to other Planters, ſubject nevertheleſs to ſuch Rules and Directions as to their hunting, and taking of Horſes, Cattle, and other Beaſts out of their own bounds and limits, as ſhall from time to time be made by the Perſons authorized by his Highneſſe, for mannaging the affairs of the ſaid Iſland.</p>
+            <p n="4">4. That they ſhall hold the ſaid Land with all Houſes, Edifices, Woods, Trees, Profits and Advantages thereupon, to them and their Heirs for ever, to be held in free, and common Soccage, without any Rent for the firſt ſeven years, and then one penny an Acre, and by no other rent, tenure, or ſervice whatſoever.</p>
+            <p n="5">5. That after the ſaid Proportions of Land are ſet forth as aforeſaid, His Highneſs, or his Succeſſors, upon the deſire of the Owners thereof, ſhall by Letters Pattents, under the Great Seal of <hi>England,</hi> or by ſuch other ſure ways as ſhall be deviſed by their Counſel learned in the Law, give, grant, and confirm unto him or them, their heirs and aſſigns the ſaid Proportions of Land, together with all and ſingular the Privileges, Iuriſdictions, Profits and advantages which are intended hereby to be enjoied by them, with power to erect and create any Man<g ref="char:EOLhyphen"/>nour or Mannors, with tenures in free and common Soccage within ſuch Plantation, or Plantations, as ſhall be capable thereof.</p>
+            <p n="6">6. That they ſhall hold and enjoy all, and ſingular Mines of Copper, Iron, Tin, or other Minerals what<g ref="char:EOLhyphen"/>ſoever (excepting Gold, and Silver Mines) and all Mines of Quarries, Coal, Stone, Allum, or other Mines, whatſoever (except as aforeſaid) within the circuit, Meets or bounds of the ſaid ſeveral and reſpective proportions of Land; and alſo all Fiſhings, and Piſcaries whatſoever upon or within any of the Lakes, Streams or Rivers within their Meets, and bounds; and alſo full power, and authority to man, and ſend forth to Sea, and unto any the Coaſts, and Shores, Roads, Harbours or Creeks within or near the ſaid Iſland, any Ships, Boats or other Veſſels to fiſh for, find out, or take any Pearls, precious Stones, or Iewels therein being, and to enjoy the ſame to his and their own uſe or uſes, rendering and paying to the Governour of the ſaid Iſland for the time being, or to ſuch other perſon or perſons, for the time being, as His Highneſſe ſhall authorize to receive the ſame, to his High<g ref="char:EOLhyphen"/>neſs uſe, the full fifth part only, and no more of all ſuch Pearls, precious Stones and Iewels as ſhall be got, found, and taken, as aforeſaid; and alſo one tenth part of all ſuch Mettal as ſhall be had, found, and gained in the Mines, granted hereby to the aforeſaid Planters.</p>
+            <p n="7">7. That no Cuſtom, Exciſe, Impoſt, or other duty ſhall be ſet or impoſed for the ſpace of three years to be accounted from the 29. day of <hi>September,</hi> which ſhall be in the year of our Lord 1656. upon any of their Goods and Merchandizes of the growth, production or Manufacture of the ſaid Iſland, which they ſhall tranſport into this Commonwealth: Nor ſhall they or their Servants, without their own conſent, be drawn out into the Wars, unleſſe it be in caſe of Invaſion, or Rebellion, and for the defence of the Iſland.</p>
+            <p n="8">8. That they ſhall have power to build Walls, and raiſe Bulwarks and Caſtles upon their own Land for the defence, and ſecurity of their own plantations, and alſo to arme themſelves, and ſervants, and to lead, and con<g ref="char:EOLhyphen"/>duct them againſt any Enemies, or Rebels within the ſaid Iſland; Subject nevertheleſs to ſuch Orders, and directions as they ſhall on this behalf receive from the Governour or Commander in chief of the ſaid Iſland for the time being.</p>
+            <p n="9">9. That all and every perſon and perſons, that ſhall hereafter happen to be born within the ſaid Iſland, ſhall be, and ſhall be deemed, and accounted to be free Denizons of <hi>England,</hi> and ſhall have and enjoy all and every ſuch benefits, privileges, advantages and immunities whatſoever, as any the Natives or People of <hi>England</hi> born in <hi>England</hi> now have and enjoy in <hi>England.</hi>
+            </p>
+            <p>That all ſuch profeſſing the Proteſtant Religion, who ſhall tranſport themſelves into the aforeſaid Iſland with<g ref="char:EOLhyphen"/>in two years to be accounted from the ſaid 29. day of <hi>September</hi> 1656. and ſhall make a beginning therein by tranſ<g ref="char:EOLhyphen"/>porting to the ſaid Iſland one third part of their number before the 29. day of <hi>September</hi> next, ſhall have, and enjoy the aforeſaid Privileges, and Advantages. And for the more certain carrying on of this buſineſſe, and anſwering Our intentions herein. We do hereby authorize and require Our Commander in chief of the ſaid Iſland, for the time being, and alſo the aforeſaid Commiſſioners that they take notice of the Premiſſes, and cauſe and due and effec<g ref="char:EOLhyphen"/>tual execution of the ſame from time to time as there ſhall be occaſion, according to the purport, &amp; true meaning here<g ref="char:EOLhyphen"/>of, for which theſe preſents ſhall be their ſufficient warrant.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at White-Hall</hi> 
+                  <date>
+                     <hi>the</hi> 10. <hi>of October</hi> 1655.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed by <hi>Henry Hills</hi> and <hi>Iohn Field,</hi> Printers to His Highneſs, MDC<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>V</p>
+         </div>
+      </back>
+   </text>
+</TEI>
